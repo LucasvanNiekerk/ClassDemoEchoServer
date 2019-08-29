@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemoEchoServer", "ClassDemoEchoServer\ClassDemoEchoServer.csproj", "{A4F07FAB-4360-4C2F-AF60-5B517BE28FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemoEchoClient", "ClassDemoEchoClient\ClassDemoEchoClient.csproj", "{C7B31712-1224-43C5-8B72-EC8CCD31E9E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F07FAB-4360-4C2F-AF60-5B517BE28FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F07FAB-4360-4C2F-AF60-5B517BE28FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F07FAB-4360-4C2F-AF60-5B517BE28FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F07FAB-4360-4C2F-AF60-5B517BE28FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B31712-1224-43C5-8B72-EC8CCD31E9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B31712-1224-43C5-8B72-EC8CCD31E9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B31712-1224-43C5-8B72-EC8CCD31E9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B31712-1224-43C5-8B72-EC8CCD31E9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC3540B-D862-435C-AF82-DE851958CBB2}
+	EndGlobalSection
+EndGlobal
